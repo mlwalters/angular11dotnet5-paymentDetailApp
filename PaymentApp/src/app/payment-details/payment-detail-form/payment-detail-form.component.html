@@ -13,7 +13,7 @@
       #cardOwnerName="ngModel"
       [(ngModel)]="service.formData.cardOwnerName"
       required
-      [class.invalid]="cardOwnerName.invalid &#038;&#038; cardOwnerName.touched"
+      [class.invalid]="cardOwnerName.invalid && cardOwnerName.touched"
     />
   </div>
 
@@ -28,7 +28,7 @@
       required
       maxlength="16"
       minlength="16"
-      [class.invalid]="cardNumber.invalid &#038;&#038; cardNumber.touched"
+      [class.invalid]="cardNumber.invalid && cardNumber.touched"
     />
   </div>
 
@@ -45,7 +45,7 @@
         required
         maxlength="3"
         minlength="3"
-        [class.invalid]="securityCode.invalid &#038;&#038; securityCode.touched"
+        [class.invalid]="securityCode.invalid && securityCode.touched"
       />
     </div>
     <div class="form-group col-md-6">
@@ -59,7 +59,7 @@
         required
         maxlength="5"
         minlength="5"
-        [class.invalid]="expirationDate.invalid &#038;&#038; expirationDate.touched"
+        [class.invalid]="expirationDate.invalid && expirationDate.touched"
       />
     </div>
   </div>
