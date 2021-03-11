@@ -7,17 +7,14 @@ Additional node packages: ngx-toastr
 
 #### Web API
 
-```
 <p align="center">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="ASP.NET Web API ">
+  <img src="https://github.com/mlwalters/angular11dotnet5-paymentDetailApp/blob/main/assets/SwaggerAPI.jpg" alt="ASP.NET Web API ">
 </p>
-```
+
 
 #### Front-End (Angular)
 
-```
 <p align="center">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="Angular 11 payment detail app">
+  <img src="https://github.com/mlwalters/angular11dotnet5-paymentDetailApp/blob/main/assets/AngularApp.jpg" alt="Angular 11 payment detail app">
 </p>
-```
 
