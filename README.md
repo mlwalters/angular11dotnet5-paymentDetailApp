@@ -19,4 +19,4 @@
 </p>
 
 ###### Credits:
-<a href="https://www.youtube.com/watch?v=S5dzfuh3t8U">CodAffection</a>
+<p>Tutorial by<a href="https://www.youtube.com/watch?v=S5dzfuh3t8U"> CodAffection</a></p>
