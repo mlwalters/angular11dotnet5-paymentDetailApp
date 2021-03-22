@@ -18,3 +18,5 @@
   <img src="https://github.com/mlwalters/angular11dotnet5-paymentDetailApp/blob/main/assets/AngularApp.jpg" alt="Angular 11 payment detail app">
 </p>
 
+###### Credits:
+<a href="https://www.youtube.com/watch?v=S5dzfuh3t8U">CodAffection</a>
